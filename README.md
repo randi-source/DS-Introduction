@@ -1,5 +1,5 @@
 # DS-Introduction
-![Data Science](chatgpt_image_ds_illustration.png)
+![Data Science](image/chatgpt_image_ds_illustration.png)
 
 ## Overview
 Welcome to DS-Introduction! This repository is designed to introduce data science concepts to people from all backgrounds, regardless of their prior technical experience. The goal is to make data science accessible, understandable, and practical for everyone.
