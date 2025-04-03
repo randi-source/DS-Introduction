@@ -1,8 +1,8 @@
-# DS-Introduction
+# Data Science-Introduction
 ![Data Science](image/chatgpt_image_ds_illustration.png)
 
 ## Overview
-Welcome to DS-Introduction! This repository is designed to introduce data science concepts to people from all backgrounds, regardless of their prior technical experience. The goal is to make data science accessible, understandable, and practical for everyone.
+Welcome to Data Science-Introduction! This repository is designed to introduce data science concepts to people from all backgrounds, regardless of their prior technical experience. The goal is to make data science accessible, understandable, and practical for everyone.
 
 ## Purpose
 This repository serves as a comprehensive resource for:
@@ -43,6 +43,4 @@ Learn by doing with our practical resources:
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Happy learning and exploring the world of data science!
