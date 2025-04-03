@@ -13,7 +13,7 @@ This repository serves as a comprehensive resource for:
 ## Contents
 
 ### Presentations
-The repository includes presentation covering Introduction to Data Science fundamentals:
+The repository includes presentation covering [**Introduction to Data Science fundamentals**](https://github.com/randi-source/DS-Introduction/blob/main/Introduction%20to%20Data%20Scientist.pdf):
 - Harness the Power of Data Science to Transform Industries
 - Why We Need Data Science Now?
 - Eliminate the Chaos of Data Overload to Make Smart Decision
@@ -25,8 +25,8 @@ The repository includes presentation covering Introduction to Data Science funda
 
 ### Hands-on Materials
 Learn by doing with our practical resources:
-- **Datasets**: Generated dataset for practice and exploration
-- **Jupyter/Colab Notebooks**: Interactive notebooks with step-by-step instructions and explanations
+- [**Datasets**](https://github.com/randi-source/DS-Introduction/blob/main/hands_on/customer_churn_data.csv): Generated dataset for practice and exploration
+- [**Colab Notebooks**](https://colab.research.google.com/github/randi-source/DS-Introduction/blob/main/hands_on/Reduce_Customer_Churn_%26_Increase_Retention_Rates.ipynb): Interactive notebooks with step-by-step instructions and explanations
 
 
 ## Getting Started
